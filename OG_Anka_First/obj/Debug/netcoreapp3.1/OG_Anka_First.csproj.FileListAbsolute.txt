@@ -1,0 +1,13 @@
+/Users/omerfarukyildirim/Developer/VisiualStudio/OG_Anka/OG_Anka_First/OG_Anka_First/obj/Debug/netcoreapp3.1/OG_Anka_First.csproj.AssemblyReference.cache
+/Users/omerfarukyildirim/Developer/VisiualStudio/OG_Anka/OG_Anka_First/OG_Anka_First/obj/Debug/netcoreapp3.1/OG_Anka_First.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerfarukyildirim/Developer/VisiualStudio/OG_Anka/OG_Anka_First/OG_Anka_First/obj/Debug/netcoreapp3.1/OG_Anka_First.AssemblyInfoInputs.cache
+/Users/omerfarukyildirim/Developer/VisiualStudio/OG_Anka/OG_Anka_First/OG_Anka_First/obj/Debug/netcoreapp3.1/OG_Anka_First.AssemblyInfo.cs
+/Users/omerfarukyildirim/Developer/VisiualStudio/OG_Anka/OG_Anka_First/OG_Anka_First/obj/Debug/netcoreapp3.1/OG_Anka_First.csproj.CoreCompileInputs.cache
+/Users/omerfarukyildirim/Developer/VisiualStudio/OG_Anka/OG_Anka_First/OG_Anka_First/bin/Debug/netcoreapp3.1/OG_Anka_First.deps.json
+/Users/omerfarukyildirim/Developer/VisiualStudio/OG_Anka/OG_Anka_First/OG_Anka_First/bin/Debug/netcoreapp3.1/OG_Anka_First.runtimeconfig.json
+/Users/omerfarukyildirim/Developer/VisiualStudio/OG_Anka/OG_Anka_First/OG_Anka_First/bin/Debug/netcoreapp3.1/OG_Anka_First.runtimeconfig.dev.json
+/Users/omerfarukyildirim/Developer/VisiualStudio/OG_Anka/OG_Anka_First/OG_Anka_First/bin/Debug/netcoreapp3.1/OG_Anka_First.dll
+/Users/omerfarukyildirim/Developer/VisiualStudio/OG_Anka/OG_Anka_First/OG_Anka_First/bin/Debug/netcoreapp3.1/OG_Anka_First.pdb
+/Users/omerfarukyildirim/Developer/VisiualStudio/OG_Anka/OG_Anka_First/OG_Anka_First/obj/Debug/netcoreapp3.1/OG_Anka_First.dll
+/Users/omerfarukyildirim/Developer/VisiualStudio/OG_Anka/OG_Anka_First/OG_Anka_First/obj/Debug/netcoreapp3.1/OG_Anka_First.pdb
+/Users/omerfarukyildirim/Developer/VisiualStudio/OG_Anka/OG_Anka_First/OG_Anka_First/obj/Debug/netcoreapp3.1/OG_Anka_First.genruntimeconfig.cache
